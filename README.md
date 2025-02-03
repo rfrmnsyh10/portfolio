@@ -2,10 +2,10 @@
 
 
 ### Education
-MSc
+  - Aerodynamics Mechainical Engineering
 
 ### Work Experience
-rfrmnsyh.github.io
+  - Research Asistant
 
 
 ### Projects
