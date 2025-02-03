@@ -9,4 +9,4 @@
 
 
 ### Projects
-CFD
+  - CFD VAWT
