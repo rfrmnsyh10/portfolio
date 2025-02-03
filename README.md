@@ -3,7 +3,7 @@
     <img src="/assets/img/scholar.png" alt="Scholar" width="30">
 </a>
 
-<img src="https://raw.githubusercontent.com/username/repository/main/assets/img/scholar.png" alt="Scholar" width="150">
+[![Scholar]({{ site.baseurl }}/assets/img/scholar.png)](https://scholar.google.com/citations?user=T_5SbsEAAAAJ)
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
