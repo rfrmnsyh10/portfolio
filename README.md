@@ -1,6 +1,6 @@
 # Mechanical Engineering
 <a href="https://scholar.google.com/citations?user=T_5SbsEAAAAJ" target="_blank">
-    <img src="/assets/img/scholar.png" alt="Scholar" width="150">
+    <img src="/assets/img/scholar.png" alt="Scholar" width="30">
 </a>
 
 
