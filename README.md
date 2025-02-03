@@ -6,32 +6,25 @@
 #### Technical Skills: CFD Simulation, SOlidworks, AutoCAD, Adobe Illustrator
 
 ## Education
-- B.S., Mechanical Engineering | The University of Gunadarma at Jakarta (_February 2024_)								       		
+- B.S., Engineering | The University of Gunadarma at Jakarta (_February 2024_)								       		
 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Research Asistant (_Februrary 2022 - Present_)**
 - Uncovered 
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Vertical Axis Wind Turbine 
+[Publication](Link)
 
 XXXXXXXXXXX
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used
 
 
 ## Talks & Lectures
 - XXX
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [CFD YouTube](Link)
 
 ## Publications
 1. Yamin, M., Nashirudin, H. A., & Firmansyah, R. (2024). Fenomena Kontrol Aliran Secara Pasif Pada Konfigurasi Ahmed Body Menggunakan Segitiga Kendali. AME (Aplikasi Mekanika dan Energi): Jurnal Ilmiah Teknik Mesin, 10(2), 74-86. DOI: https://doi.org/10.32832/ame.v10i2.763
