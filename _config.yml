@@ -1,7 +1,8 @@
 title: Riyan Firmansyah
 logo: /assets/img/headshot_circle.png
 description: Research Asistant
-show_url: bbbnn
+link:
+  show_url: bbbnn
 show_downloads: true
 theme: jekyll-theme-minimal
 
