@@ -1,11 +1,10 @@
 # Mechanical Engineering
-![Scholar](/assets/img/scholar.png)
+![Scholar](/assets/img/scholar.png) [/assets/img/scholar.png](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AGd7smEYuOq7ZTlQV4dx1LE0Wk2truUpe-2G7lRZsInjyle-Dc-71dwfZuYRcyIjq6VXaOMkVKxtEg2xHPet3A&user=T_5SbsEAAAAJ) 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S., Mechanical Engineering | The University of Gunadarma at Jakarta (_February 2024_)								       		
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
