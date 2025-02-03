@@ -1,6 +1,6 @@
 # Mechanical Engineering
 
-[![Scholar](/assets/img/assets/img/scholar5mm.png)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AGd7smEYuOq7ZTlQV4dx1LE0Wk2truUpe-2G7lRZsInjyle-Dc-71dwfZuYRcyIjq6VXaOMkVKxtEg2xHPet3A&user=T_5SbsEAAAAJ)
+[![Scholar](/assets/img/scholar.png)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AGd7smEYuOq7ZTlQV4dx1LE0Wk2truUpe-2G7lRZsInjyle-Dc-71dwfZuYRcyIjq6VXaOMkVKxtEg2xHPet3A&user=T_5SbsEAAAAJ)
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
